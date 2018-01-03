@@ -77,6 +77,7 @@ You'll need to use the **MinGW Shell** for entering your build commands, not the
 ### Download the gcc-arm toolchain - Windows
 
 The gcc-arm toolchains are here: [https://launchpad.net/gcc-arm-embedded](https://launchpad.net/gcc-arm-embedded)
+Moved lately to here:https://developer.arm.com/open-source/gnu-toolchain/gnu-rm
 
 Currently, the 4.9-2015-q3-update is recommended. The 5.3.1 version can be used now and will be used for cloud compiles starting with system firmware 0.7.0. The 5.4.x and 6.x versions are not recommended at this time.
 
